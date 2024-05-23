@@ -1,0 +1,76 @@
+
+	----THONG TIN XE 1-----	
+Ma xe: 1
+	[THONG TIN DONG CO]	
+Ma: 1
+Hang: 1
+Loai A
+Gia: 500
+	[THONG TIN BANH XE]	
+Ma: 1
+Hang: 1
+Loai D
+Gia: 400
+
+Ma: 1
+Hang: 1
+Loai D
+Gia: 400
+	[THONG TIN KHUNG XE]	
+Ma: 1
+Hang: 1
+Loai nhom cach nhiet
+Gia: 500
+
+--->Gia cua xe may: 1800
+
+	----THONG TIN XE 2-----	
+Ma xe: 1
+	[THONG TIN DONG CO]	
+Ma: 2
+Hang: 2
+Loai B
+Tieu chuan: 1
+Gia: 600
+	[THONG TIN BANH XE]	
+Ma: 1
+Hang: 1
+Loai D
+Gia: 400
+
+Ma: 1
+Hang: 1
+Loai D
+Gia: 400
+	[THONG TIN KHUNG XE]	
+Ma: 1
+Hang: 1
+Loai nhua
+Gia: 200
+
+--->Gia cua xe may: 1600
+
+	----THONG TIN XE 3-----	
+Ma xe: 1
+	[THONG TIN DONG CO]	
+Ma: 1
+Hang: 1
+Loai C
+Gia: 400
+	[THONG TIN BANH XE]	
+Ma: 1
+Hang: 1
+Loai D
+Gia: 400
+
+Ma: 1
+Hang: 1
+Loai D
+Gia: 400
+	[THONG TIN KHUNG XE]	
+Ma: 1
+Hang: 1
+Loai nhom cach nhiet
+Gia: 500
+
+--->Gia cua xe may: 1700
